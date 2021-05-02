@@ -1,4 +1,4 @@
-## Hi there :wave: I'm Ashish Bhagat
+## Hello World! :wave: I'm Jotsarup Singh Nagpal
 - :telescope: I’m Full Stack Devloper ,Actively looking for new opportunities
 - :seedling: Lover of all things frontend! I love building things that work efficiently and look great.
 - :goal_net: 2021 Goals: Contribute more to Open Source projects
@@ -15,5 +15,5 @@
 <br />
 <details>
 <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ashishbhagat123&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jotsarup-singh&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 </details>
