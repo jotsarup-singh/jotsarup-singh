@@ -1,4 +1,4 @@
-## Hi there :wave: I'm Ashish Bhagat
+## Hi there :wave: I'm Jotsarup Singh
 - :telescope: I'm Full Stack Devloper ,Actively looking for new opportunities
 - :seedling: Lover of all things frontend! I love building things that work efficiently and look great.
 - :goal_net: 2021 Goals: Contribute more to Open Source projects
