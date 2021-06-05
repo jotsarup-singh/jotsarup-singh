@@ -15,5 +15,5 @@
 <br />
 <details>
 <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jotsarup-singh&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 </details>
